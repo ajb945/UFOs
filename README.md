@@ -9,7 +9,7 @@ By default, the page will show the total UFO sighting information, as seen below
 
 ![UFOs_1](static/images/UFOs_1.png)
 
-After adding values in filters, in this case "1/1/2010" in the date field and "ca" in the state field, results can be filtered down by the inputs given as seen below.
+After adding values in the available filters, in this case "1/1/2010" in the date field and "ca" in the state field, more specific results can be shown as seen below.
 
 ![UFOs_2](static/images/UFOs_2.png)
 
