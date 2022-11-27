@@ -18,4 +18,4 @@ One current drawback is that the code does not filter according to capital lette
 
 One option for further development is the addition of more information such as maps to also show the density of UFOs appearing in any given areas.
 
-Another is to include a date range within the filter. As an example how this could help, if someone was to filter by a specific month, they could perhaps see if more UFO sigtings happens on specific days as well.
+Another is to include a date range in the filter options. As an example how this could help, if someone was to filter by a specific month, they could perhaps see if more UFO sigtings happens on specific days as well.
